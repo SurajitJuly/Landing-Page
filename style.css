@@ -101,19 +101,20 @@ button {
 }
 
 .second-one {
-    height: 20vh;
+    height: 10vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: end;
 }
 
 .second-two {
-    height: 80vh;
+    height: 100vh;
     display: flex;
     justify-content: space-between;
     align-content: center;
     margin-bottom: 4rem;
     flex-wrap: wrap;
+    gap: 1rem;
 }
 
 .second-image {
